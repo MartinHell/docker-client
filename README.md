@@ -1,2 +1,2 @@
 # docker-client
-Docker image with docker-client 18.06.1
+Docker image with docker-client 18.06.1.
